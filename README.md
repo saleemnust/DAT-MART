@@ -1,0 +1,2 @@
+# DAT-MART
+This is an online system implemented specifically for shops in C1, C2  and C3. It will facilitate the students as well as other people. Hostillites can be its major beneficiates.  It  will certainly be helpful for them. Its use in NUST cafeterias will be at basic level. At higher level It can also be used outside NUST to facilitate many other people.  In addition to this it can also be helpful in big shopping malls as well. However our main focus will be on facilitating NUSTIAN at basic level.
